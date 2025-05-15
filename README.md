@@ -1,49 +1,45 @@
-# Projeto Agrinho - Combate ao Desmatamento
+# 📄 README – Projeto Agrinho: Conectando a Cidade e o Campo
 
-O **Projeto Agrinho** é uma iniciativa que visa conscientizar a população, especialmente crianças e jovens, sobre a importância da preservação ambiental. Com foco no combate ao desmatamento, o projeto busca sensibilizar a comunidade escolar e incentivá-la a adotar práticas sustentáveis para garantir um futuro mais verde e equilibrado.
+## 🎯 Objetivo
 
-## Estrutura do Projeto
+O Projeto Agrinho visa promover a integração entre as realidades urbana e rural, destacando a importância da colaboração mútua para o desenvolvimento sustentável. Por meio de atividades pedagógicas, busca-se sensibilizar crianças e jovens sobre o papel fundamental do campo na produção de alimentos e na economia, ao mesmo tempo em que valoriza os aspectos culturais e tecnológicos da vida urbana.
 
-### Introdução
-O desmatamento é uma das maiores ameaças ao meio ambiente. O Projeto Agrinho busca sensibilizar crianças e jovens para a importância da preservação ambiental, promovendo ações educativas que envolvem a comunidade escolar.
+## 🧩 Estrutura do Projeto
 
-### O que é o desmatamento?
-O desmatamento é a remoção da vegetação nativa sem reposição para dar lugar a outras atividades. Isso causa perda de biodiversidade, alterações climáticas e degradação do solo.
+### 1. Introdução
 
-### O que é o Projeto Agrinho?
-O Agrinho é o maior programa de responsabilidade social do Sistema FAEP, promovido pelo SENAR-PR, com apoio do Governo do Estado do Paraná. Criado em 1996, o programa leva às escolas públicas atividades pedagógicas focadas em saúde, cidadania e meio ambiente. Anualmente, o programa envolve cerca de 800 mil crianças e mais de 50 mil professores em todos os municípios do Estado.
+Apresentação do tema e contextualização da importância da conexão entre cidade e campo.
 
-### Como combater o desmatamento?
-O combate ao desmatamento envolve várias práticas essenciais, incluindo:
-- Reflorestamento com espécies nativas.
-- Uso sustentável dos recursos naturais.
-- Educação ambiental nas escolas e comunidades.
-- Fiscalização e cumprimento das leis ambientais.
+### 2. O que é o Projeto Agrinho?
 
-### Depoimentos
-Alguns depoimentos de participantes do projeto:
+Descrição do programa Agrinho, sua história, objetivos e impacto nas comunidades escolares.
 
-> "O Agrinho me ensinou a importância de cuidar da natureza. Hoje, sou voluntário em projetos de reflorestamento." — João, ex-aluno
+### 3. Como Conectar?
 
-> "As atividades práticas do Agrinho despertaram nos alunos o interesse pela preservação ambiental." — Maria, professora
+Sugestões de atividades e projetos que promovem a interação entre alunos urbanos e rurais, como visitas a propriedades agrícolas, feiras de produtos locais e intercâmbios culturais.
 
-> "O programa me ajudou a entender o impacto das nossas ações no meio ambiente e como podemos contribuir para um futuro mais sustentável." — Pedro, estudante
+### 4. Depoimentos
 
-> "Participar do Agrinho foi uma experiência transformadora. Ensina não apenas sobre a natureza, mas sobre o respeito e a convivência comunitária." — Ana, voluntária
+Relatos de participantes que vivenciaram as ações do projeto, compartilhando experiências e aprendizados.
 
-> "Foi através do Agrinho que aprendi a valorizar cada pequena atitude que contribui para a conservação do nosso planeta." — Lucas, ex-aluno
+### 5. Galeria
 
-> "O Agrinho abriu minha visão sobre a sustentabilidade e me motivou a implementar práticas ecológicas no meu dia a dia." — Carla, mãe e apoiadora do programa
+Espaço para exibição de fotos, vídeos e materiais produzidos durante as atividades, evidenciando a participação e engajamento dos envolvidos.
 
-## Contato
-Para mais informações ou para se envolver com o projeto, entre em contato conosco através das redes sociais ou por e-mail.
+### 6. Contato
 
-- **Facebook**: [Projeto Agrinho](https://facebook.com/projetoagrinho)
-- **Instagram**: [@projetoagrinho](https://instagram.com/projetoagrinho)
+Informações para contato, incentivando a participação de escolas, educadores e comunidade em geral.
 
-## Licença
-Este projeto é de uso livre. Para mais informações, consulte a documentação e as permissões de uso.
+## 🎨 Design e Implementação
 
----
+O projeto foi desenvolvido utilizando HTML5 para a estruturação do conteúdo, CSS para o estilo visual e JavaScript para interatividade. A navegação é intuitiva, com um menu que facilita o acesso às diferentes seções do site.
 
-© 2025 Projeto Agrinho. Todos os direitos reservados.
+## 📸 Imagens
+
+![Imagem do Projeto Agrinho](https://www.sistemafaep.org.br/wp-content/uploads/2024/03/agrinho2024.jpg)
+
+*Legenda: Cartaz do Agrinho 2024 destacando a integração entre cidade e campo.*
+
+## 📌 Conclusão
+
+O Projeto Agrinho: Conectando a Cidade e o Campo é uma iniciativa que busca fortalecer os laços entre as comunidades urbanas e rurais, promovendo uma compreensão mútua e colaborativa. Ao envolver estudantes em atividades práticas e reflexivas, o projeto contribui para a formação de cidadãos conscientes e engajados com o desenvolvimento sustentável.
